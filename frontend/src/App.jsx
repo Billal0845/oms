@@ -54,7 +54,7 @@ function App() {
             onChange={(e) => setTitle(e.target.value)}
           />
           <button className="bg-blue-500 text-white px-4 py-2 rounded">
-            Add
+            Add here Bro
           </button>
         </form>
         <ul>
